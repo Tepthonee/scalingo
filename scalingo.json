@@ -2,8 +2,8 @@
     "name": "TEPTHON USERBOT - سورس تيبثون",
     "description": "تنصيب سورس تيبثون مجانا على منصة سكالينجو",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["jmthon", "userbot","scalingo"],
-    "repository": "https://github.com/thejmthon/scalingo",
+    "keywords": ["tepthon", "userbot","scalingo"],
+    "repository": "https://github.com/Tepthonee/scalingo",
   "stack": "container",
     "env": {
         "ALIVE_NAME": {
