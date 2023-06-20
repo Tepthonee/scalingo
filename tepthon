@@ -1,4 +1,4 @@
-git clone https://github.com/Tepthonee/tt_1 RMZ
+git clone https://github.com/Tepthonee/thetepthon RMZ
 cd RMZ
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
